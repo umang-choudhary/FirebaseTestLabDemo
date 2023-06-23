@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseTestLabDemo</string>
+    <string name="text_next">Go To Next Screen</string>
+    <string name="text_main_activity">Main Activity</string>
+    <string name="text_second_activity">Second Activity</string>
+    <string name="back">Move To Back Screen</string>
+</resources>
